@@ -1,0 +1,9 @@
+body{
+    margin: 0px;
+}
+.tablas{
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+
+}
