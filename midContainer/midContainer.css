@@ -1,0 +1,33 @@
+#table-container{
+    display: flex;
+    justify-content: center;
+    width: 100%;
+    padding-bottom: 12px;
+    padding-top: 12px;
+
+}
+
+.tabla{
+    display:flex;
+    font-family: 'Nanum Gothic', sans-serif;
+    justify-content: space-between;
+    position: relative;
+    box-shadow: 0 1px 26px 0 #9090907e;
+    border-collapse: separate;
+    text-align: center;
+    width: 85vw;
+
+}
+
+ul > li > .title{
+    font-weight: bold;
+    
+}
+
+ul > li:not(:first-child):hover{
+    color: red;
+}
+
+ul > li{
+    margin-top: 30px;
+}

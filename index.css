@@ -1,9 +1,10 @@
 body{
     margin: 0px;
+    top: 0px;
+    padding: 0px;
 }
-.tablas{
-    table-layout: fixed;
-    width: 100%;
-    border-collapse: collapse;
 
+
+li{
+    list-style: none;
 }
